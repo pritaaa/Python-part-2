@@ -5,13 +5,15 @@ in this week we've learned the following things :
 ## 1. Break
 In Python, the break statement is a control statement used to exit a loop prematurely. It allows you to terminate the current loop and resume execution of the program after the loop. Here's a simple explanation of how the break statement works:
 
-![break-1](https://github.com/pritaaa/Python-part-2/assets/96106020/e80c700d-6447-4b7b-83b3-84aee73d9142)
+![image](https://github.com/pritaaa/Python-part-2/assets/96106020/2eb4412f-a88c-4a2d-b335-c1ce46af7b23)
+
 
 Imagine you have a loop (e.g., for or while) that is designed to run a set of instructions repeatedly until a certain condition is met. The break statement is used to interrupt the loop and stop its execution when a specific condition is satisfied. Once the break statement is encountered, the loop immediately exits, and the program continues with the code outside of the loop.
 
 ## 2. Continue
 In Python, the continue statement is a control statement used within loops (such as for or while) to skip the current iteration and proceed to the next one. Here's a simple explanation of how the continue statement works:
-![cntnue-1](https://github.com/pritaaa/Python-part-2/assets/96106020/32cd9c31-71aa-48d1-a401-d727dbe59bab)
+
+
 
 When a continue statement is encountered inside a loop, it immediately stops the current iteration of the loop and moves on to the next iteration. This means that any code following the continue statement within the current iteration is skipped, and the loop continues with the next iteration.
 
